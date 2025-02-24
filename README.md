@@ -1,4 +1,4 @@
-# afl_tipping_data
+# Historical AFL Data for CBH Tipping
 
 <table>
     <thead>
