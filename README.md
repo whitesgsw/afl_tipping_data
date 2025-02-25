@@ -6,11 +6,12 @@
             <th>Date</th>
             <th>Comment</th>
         </tr>
+    </thead>
         <tr>
             <td>24/02/2025</td>
             <td>Update data for season 2025</td>
         </tr>
-    </thead>
+
 </table>
 
 ## game_results.csv
